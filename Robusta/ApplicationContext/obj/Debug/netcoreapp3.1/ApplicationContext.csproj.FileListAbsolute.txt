@@ -1,0 +1,9 @@
+C:\Users\Rinat\source\repos\Robusta\ApplicationContext\bin\Debug\netcoreapp3.1\ApplicationContext.deps.json
+C:\Users\Rinat\source\repos\Robusta\ApplicationContext\bin\Debug\netcoreapp3.1\ApplicationContext.dll
+C:\Users\Rinat\source\repos\Robusta\ApplicationContext\obj\Debug\netcoreapp3.1\ApplicationContext.csprojAssemblyReference.cache
+C:\Users\Rinat\source\repos\Robusta\ApplicationContext\obj\Debug\netcoreapp3.1\ApplicationContext.AssemblyInfoInputs.cache
+C:\Users\Rinat\source\repos\Robusta\ApplicationContext\obj\Debug\netcoreapp3.1\ApplicationContext.AssemblyInfo.cs
+C:\Users\Rinat\source\repos\Robusta\ApplicationContext\bin\Debug\netcoreapp3.1\ApplicationContext.pdb
+C:\Users\Rinat\source\repos\Robusta\ApplicationContext\obj\Debug\netcoreapp3.1\ApplicationContext.csproj.CoreCompileInputs.cache
+C:\Users\Rinat\source\repos\Robusta\ApplicationContext\obj\Debug\netcoreapp3.1\ApplicationContext.dll
+C:\Users\Rinat\source\repos\Robusta\ApplicationContext\obj\Debug\netcoreapp3.1\ApplicationContext.pdb
